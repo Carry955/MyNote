@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/3bfae67897b7889fc7b65002d60d89b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/carry/.gradle/caches/transforms-2/files-2.1/cd2eb420e9e7a213b3ca720ad18f8843/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/6030af9a3c11821d685abbd6fb33ff1d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/3d217d9073c8cc58f6fc5e2d3ecf912c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/6c5a85972a3d23a9ffd41f4b702e8291/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/e1c0fd50d16ed340ea91afbf1f6d1cce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/16d997670424a3bdfee0d681c8942572/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/b6c1de81ab892ae1b85cd5e2eca4ff0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/eccefbb028bddc7e1ddbb8de929add6d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/58488532bfb5943bbc99d56dcc5497cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/41a42cbd6a198d09403e0c01cb1977f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/023b9e0ac09575196e777b2948f913c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/5615a46da1748f4ccd19b455a9f0bff8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/241e5abf9ee8541b76a9536c71b4e89b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/c5dafdab2e8d6a2d03f041825f321313/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/562912a7e39cac3580b8383895015df6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/cff7665cb8b05072b7c5966464eda215/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/fdc6e8386a7b0b975ef63b207f32f0ce/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/carry/.gradle/caches/transforms-2/files-2.1/d9029191457aca319b480b607f56b0b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/b3bdd9644abe2f76baf92bb0f5a80a77/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/8940e932b77ea04aa229f57e57228b78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/0da85d2f9ff034a118b1d69e28054331/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/carry/.gradle/caches/transforms-2/files-2.1/cb2f8b3af39efb38a997a703c7c82575/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/carry/.gradle/caches/transforms-2/files-2.1/270e129cbf052abb7dfe2eaab1888e16/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/carry/.gradle/caches/transforms-2/files-2.1/7dddf7b20ac27db10752e016c8c3a181/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/carry/.gradle/caches/transforms-2/files-2.1/9057e3b5aa6dd39101c89345e94679a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/516b33377963ba963d7114eced95edf2/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml
+		INJECTED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml
+		ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml
+		ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:4:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/carry/.gradle/caches/transforms-2/files-2.1/cd2eb420e9e7a213b3ca720ad18f8843/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/carry/.gradle/caches/transforms-2/files-2.1/cd2eb420e9e7a213b3ca720ad18f8843/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/562912a7e39cac3580b8383895015df6/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/562912a7e39cac3580b8383895015df6/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/cff7665cb8b05072b7c5966464eda215/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/cff7665cb8b05072b7c5966464eda215/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/562912a7e39cac3580b8383895015df6/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:6:9-36
+	android:allowBackup
+		ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:10:9-39
+activity#com.app.MyNote.MainActivity
+ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:15:27-74
+activity#com.app.MyNote.NewNote
+ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:18:9-44
+	android:name
+		ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml:18:19-42
+uses-sdk
+INJECTED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml
+INJECTED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/3bfae67897b7889fc7b65002d60d89b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/3bfae67897b7889fc7b65002d60d89b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/carry/.gradle/caches/transforms-2/files-2.1/cd2eb420e9e7a213b3ca720ad18f8843/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/carry/.gradle/caches/transforms-2/files-2.1/cd2eb420e9e7a213b3ca720ad18f8843/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/6030af9a3c11821d685abbd6fb33ff1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/6030af9a3c11821d685abbd6fb33ff1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/3d217d9073c8cc58f6fc5e2d3ecf912c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/3d217d9073c8cc58f6fc5e2d3ecf912c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/6c5a85972a3d23a9ffd41f4b702e8291/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/6c5a85972a3d23a9ffd41f4b702e8291/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/e1c0fd50d16ed340ea91afbf1f6d1cce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/e1c0fd50d16ed340ea91afbf1f6d1cce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/16d997670424a3bdfee0d681c8942572/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/16d997670424a3bdfee0d681c8942572/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/b6c1de81ab892ae1b85cd5e2eca4ff0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/b6c1de81ab892ae1b85cd5e2eca4ff0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/eccefbb028bddc7e1ddbb8de929add6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/eccefbb028bddc7e1ddbb8de929add6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/58488532bfb5943bbc99d56dcc5497cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/58488532bfb5943bbc99d56dcc5497cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/41a42cbd6a198d09403e0c01cb1977f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/41a42cbd6a198d09403e0c01cb1977f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/023b9e0ac09575196e777b2948f913c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/023b9e0ac09575196e777b2948f913c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/5615a46da1748f4ccd19b455a9f0bff8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/5615a46da1748f4ccd19b455a9f0bff8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/241e5abf9ee8541b76a9536c71b4e89b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/241e5abf9ee8541b76a9536c71b4e89b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/c5dafdab2e8d6a2d03f041825f321313/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/c5dafdab2e8d6a2d03f041825f321313/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/562912a7e39cac3580b8383895015df6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/562912a7e39cac3580b8383895015df6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/cff7665cb8b05072b7c5966464eda215/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/cff7665cb8b05072b7c5966464eda215/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/fdc6e8386a7b0b975ef63b207f32f0ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/fdc6e8386a7b0b975ef63b207f32f0ce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/carry/.gradle/caches/transforms-2/files-2.1/d9029191457aca319b480b607f56b0b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/carry/.gradle/caches/transforms-2/files-2.1/d9029191457aca319b480b607f56b0b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/b3bdd9644abe2f76baf92bb0f5a80a77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/b3bdd9644abe2f76baf92bb0f5a80a77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/8940e932b77ea04aa229f57e57228b78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/8940e932b77ea04aa229f57e57228b78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/0da85d2f9ff034a118b1d69e28054331/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/0da85d2f9ff034a118b1d69e28054331/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/carry/.gradle/caches/transforms-2/files-2.1/cb2f8b3af39efb38a997a703c7c82575/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/carry/.gradle/caches/transforms-2/files-2.1/cb2f8b3af39efb38a997a703c7c82575/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/carry/.gradle/caches/transforms-2/files-2.1/270e129cbf052abb7dfe2eaab1888e16/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/carry/.gradle/caches/transforms-2/files-2.1/270e129cbf052abb7dfe2eaab1888e16/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/carry/.gradle/caches/transforms-2/files-2.1/7dddf7b20ac27db10752e016c8c3a181/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/carry/.gradle/caches/transforms-2/files-2.1/7dddf7b20ac27db10752e016c8c3a181/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/carry/.gradle/caches/transforms-2/files-2.1/9057e3b5aa6dd39101c89345e94679a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/carry/.gradle/caches/transforms-2/files-2.1/9057e3b5aa6dd39101c89345e94679a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/516b33377963ba963d7114eced95edf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/carry/.gradle/caches/transforms-2/files-2.1/516b33377963ba963d7114eced95edf2/AndroidManifest.xml:20:5-44
+INJECTED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml
+INJECTED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml
+		ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml
+		INJECTED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml
+		ADDED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml
+		INJECTED from /home/carry/Desktop/MyNote/app/src/main/AndroidManifest.xml

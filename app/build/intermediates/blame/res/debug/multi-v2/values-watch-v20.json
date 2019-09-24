@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/carry/Desktop/MyNote/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/carry/.gradle/caches/transforms-2/files-2.1/3bfae67897b7889fc7b65002d60d89b8/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

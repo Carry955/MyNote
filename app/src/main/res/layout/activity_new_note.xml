@@ -1,0 +1,80 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/screen_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#fff"
+    android:orientation="vertical">
+    <com.app.MyNote.TitleBar
+        android:id="@+id/note_titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:type="1"
+        app:title="新建便笺">
+
+    </com.app.MyNote.TitleBar>
+
+    <LinearLayout
+        android:layout_below="@id/note_titlebar"
+        android:id="@+id/note_content"
+        android:layout_marginTop="6dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#808080"
+            android:paddingHorizontal="5dp"
+            android:textSize="16sp"/>
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="3dp"
+            android:paddingHorizontal="5dp"
+            android:hint="标题"
+            android:textSize="22sp"
+            android:textColor="#626366"
+            android:background="@null"
+            android:ems="10">
+            <requestFocus />
+        </EditText>
+        <View
+            android:layout_height="1.2dp"
+            android:layout_width="match_parent"
+            android:background="#ddd"
+            android:layout_marginHorizontal="4dp"/>
+        <EditText
+            android:id="@+id/editText2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="top"
+            android:hint="内容"
+            android:textSize="18sp"
+            android:textColor="#626366"
+            android:background="@null"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="5dp"
+            android:paddingHorizontal="5dp" />
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/saveButton"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:scaleType="centerCrop"
+        android:alpha="100"
+        android:background="@mipmap/save"
+        android:layout_gravity="end"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="21dp"
+        android:layout_marginEnd="13dp" />
+
+</RelativeLayout>

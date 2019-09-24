@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:orientation="vertical"
+    android:layout_marginHorizontal="10dp"
+    android:layout_marginBottom="10dp"
+    android:background="@drawable/dialog_bg">
+
+    <TextView
+        android:id="@+id/dialog_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="18dp"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:text="删除便笺"
+        android:textColor="#000"
+        android:textSize="17sp" />
+
+    <TextView
+        android:layout_below="@id/dialog_title"
+        android:id="@+id/dialog_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="24dp"
+        android:layout_centerHorizontal="true"
+        android:text="确认要删除此便笺?"
+        android:textSize="15sp"
+        android:textColor="#323232"/>
+
+    <View
+        android:layout_above="@+id/buttonbox"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginTop="15dp"
+        android:background="#dadada" />
+
+    <LinearLayout
+        android:id="@+id/buttonbox"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/cancel"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:paddingStart="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/dia_lbutton_down"
+            android:gravity="center"
+            android:text="取消"
+            android:textColor="#5a5a5a"
+            android:textSize="16sp" />
+
+        <View
+            android:layout_width="1px"
+            android:layout_height="match_parent"
+            android:background="#dadada" />
+
+        <Button
+            android:id="@+id/yes"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:paddingEnd="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/dia_rbutton_down"
+            android:gravity="center"
+            android:text="删除"
+            android:textColor="#ffc000"
+            android:textSize="16sp" />
+    </LinearLayout>
+</RelativeLayout>
