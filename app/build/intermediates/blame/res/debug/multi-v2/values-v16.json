@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/carry/Desktop/MyNote/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/media/carry/34E2EAA1E2EA6698/Workspace/MyNote/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/carry/.gradle/caches/transforms-2/files-2.1/3bfae67897b7889fc7b65002d60d89b8/res/values-v16/values-v16.xml",
+                    "source": "/home/carry/.gradle/caches/transforms-2/files-2.1/2ad9bfadafd430f8dbad1412b3cf8d16/appcompat-v7-28.0.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/carry/.gradle/caches/transforms-2/files-2.1/562912a7e39cac3580b8383895015df6/res/values-v16/values-v16.xml",
+                    "source": "/home/carry/.gradle/caches/transforms-2/files-2.1/f14724208b5bfeeef0d6bdefe649bca7/support-compat-28.0.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

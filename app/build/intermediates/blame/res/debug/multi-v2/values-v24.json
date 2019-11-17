@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/carry/Desktop/MyNote/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/media/carry/34E2EAA1E2EA6698/Workspace/MyNote/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/home/carry/.gradle/caches/transforms-2/files-2.1/3bfae67897b7889fc7b65002d60d89b8/res/values-v24/values-v24.xml",
+                    "source": "/home/carry/.gradle/caches/transforms-2/files-2.1/2ad9bfadafd430f8dbad1412b3cf8d16/appcompat-v7-28.0.0/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
